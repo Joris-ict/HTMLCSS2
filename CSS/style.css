@@ -5,8 +5,22 @@
 
 body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey url('../images/circuit.jpg') repeat;
+  background-color: gray;
+}
+
+header{
+  font-size: 75px;
+  background-color: darkblue;
+}
+
+#menu{
+
 }
 
 #content{
+
+}
+
+#footer{
+
 }
