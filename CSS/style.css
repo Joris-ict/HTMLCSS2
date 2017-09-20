@@ -10,6 +10,7 @@ body {
 
 header{
   font-size: 75px;
+  font-variant: small-caps;
   background-color: darkblue;
 }
 
