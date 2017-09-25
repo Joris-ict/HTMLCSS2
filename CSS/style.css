@@ -1,27 +1,49 @@
-* {
-  margin: 0px;
-  padding: 0px;
-}
-
 body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background-color: gray;
+  background-image: url("../images/stars.jpg");
 }
 
 header{
   font-size: 75px;
   font-variant: small-caps;
-  background-color: darkblue;
+  width: 90%;
+  border-style: solid;
+  border-color: black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  padding: 5px;
 }
 
 #menu{
-
+  width: 90%;
+  border-style: solid;
+  border-color: black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 #content{
-
+  width: 90%;
+  border-style: solid;
+  border-color: black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 #footer{
-
+  width: 90%;
+  border-style: solid;
+  border-color: black;
+  background-color: lightgray;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5px;
 }
