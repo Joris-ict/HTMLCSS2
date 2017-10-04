@@ -10,7 +10,7 @@
   <center>
   <body>
     <header>
-      [Logo] My Website
+      <img src="images/git.png" width="182" height="76"> My Website
     </header>
 
     <div id="menu">
